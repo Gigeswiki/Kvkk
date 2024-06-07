@@ -39,7 +39,7 @@ Kişisel verileriniz; Kanun’da öngörülen temel ilkelere uygun olarak ve Kan
 
 Bu amaçlarla kişisel verileriniz, Giges yetkililerine, iş ortaklarına, tedarikçilere, hissedarlara ve kanunen yetkili kurum ve kuruluşlara aktarılabilir.
 
-Kişisel verilerinizin Giges tarafından aktarılması konusunda detaylı bilgilere, [giges.com](https://www.giges.com.tr) internet adresinden ulaşabileceğiniz “Giges Kişisel Verilerin Korunması ve İşlenmesi Politikası ve Özel Nitelikli Kişisel Verilere İlişkin Politika”da yer verilmiştir.
+Kişisel verilerinizin Giges tarafından aktarılması konusunda detaylı bilgilere, [giges.com.tr](https://www.giges.com.tr) internet adresinden ulaşabileceğiniz “Giges Kişisel Verilerin Korunması ve İşlenmesi Politikası ve Özel Nitelikli Kişisel Verilere İlişkin Politika”da yer verilmiştir.
 
 ## Yurtdışına Aktarım
 Kanun’un 9. Maddesi uyarınca, Giges’in meşru ve hukuka uygun kişisel veri işleme amaçları doğrultusunda kişisel verileriniz, gerekli çalışmaları yapmak ve hizmetleri beğeni, kullanım alışkanlıkları ve ihtiyaçlara göre özelleştirerek sunmak amacıyla, yeterli korumaya sahip veya yeterli korumayı taahhüt eden veri sorumlusunun bulunduğu yabancı ülkelere aktarılabilir.
