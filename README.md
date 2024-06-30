@@ -1,10 +1,13 @@
 # Türkiye'de KVKK (Kişisel Verilerin Korunması Kanunu) Hakkında Bilgi ve Paylaşım Alanı
 
-Bu depo, Türkiye'deki Kişisel Verilerin Korunması Kanunu (KVKK) ile ilgili genel bilgiler, cezalar ve şirketler için gerekli belgelerin bulunduğu bir kaynak oluşturmayı amaçlamaktadır.
+
+
+#Bu depo, Türkiye'deki Kişisel Verilerin Korunması Kanunu (KVKK) ile ilgili genel bilgiler, cezalar ve şirketler için gerekli belgelerin bulunduğu bir kaynak oluşturmayı amaçlamaktadır.
 
 # Proje Adı
 
 ## Menü
+
 # Proje Adı
 
 ## Menü
@@ -23,7 +26,6 @@ Buraya proje ile ilgili genel bilgileri ekleyebilirsiniz.
 ## Proje Açıklaması
 
 Buraya proje ile ilgili genel bilgileri ekleyebilirsiniz.
-
 
 ## KVKK Nedir?
 
