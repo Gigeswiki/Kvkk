@@ -2,6 +2,29 @@
 
 Bu depo, Türkiye'deki Kişisel Verilerin Korunması Kanunu (KVKK) ile ilgili genel bilgiler, cezalar ve şirketler için gerekli belgelerin bulunduğu bir kaynak oluşturmayı amaçlamaktadır.
 
+# Proje Adı
+
+## Menü
+# Proje Adı
+
+## Menü
+
+- [Açık Rıza Alırken Dikkat Edilecek Hususlar](./acikrizalirken_dikkat_edilecek_hususlar.md)
+- [Giges Kapsam Portal](./Giges_Kapsam_Portal.md)
+- [Giges KVKK](./Giges-kvkk.md)
+- [Kesilen Ceza Örnekleri](./kesilen_ceza_ornekleri.md)
+- [Lisans](./LICENSE)
+- [README](./README.md)
+
+## Proje Açıklaması
+
+Buraya proje ile ilgili genel bilgileri ekleyebilirsiniz.
+
+## Proje Açıklaması
+
+Buraya proje ile ilgili genel bilgileri ekleyebilirsiniz.
+
+
 ## KVKK Nedir?
 
 KVKK, kişisel verilerin işlenmesi ve korunmasına ilişkin usul ve esasları düzenleyen bir kanundur. 7 Nisan 2016 tarihinde yürürlüğe girmiştir. Bu kanun, kişisel verilerin hukuka uygun işlenmesini ve veri sahiplerinin haklarını korumayı amaçlar.
